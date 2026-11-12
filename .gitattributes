@@ -1,0 +1,7 @@
+# Mark platform-specific scaffoldings as vendored so GitHub recognizes Dart as primary language
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+web/** linguist-vendored
